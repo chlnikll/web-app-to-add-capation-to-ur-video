@@ -26,4 +26,5 @@ License:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Credits:
-This project was created by [Your Name]. Special thanks to [any contributors or libraries used].
+This project was created by Shubhangi Shahi.
+Link: http://127.0.0.1:5500/web.html
